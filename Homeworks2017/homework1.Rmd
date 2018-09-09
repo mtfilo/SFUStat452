@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Question 1 (Chapter 2, #1, 8 marks)
 
-(a) <your answer here>
+(a) 
 
 (b) <etc.>
 
@@ -22,11 +22,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Question 2 (Chapter 2, #2, 6 marks)
 
-(a)
+(a) n=500, p=4
 
-(b)
+(b) n=20, p=14
 
-(c)
+(c) n=
 
 ## Question 3 (Chapter 2, #9, 8 marks)
 
